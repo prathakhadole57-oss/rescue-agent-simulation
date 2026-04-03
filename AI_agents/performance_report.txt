@@ -1,0 +1,17 @@
+==================================================
+AI Ambulance Dispatch System - Report
+==================================================
+
+Simple Reflex:
+  Steps: 100
+  Rescued: 0/4
+
+Goal-Based:
+  Steps: 100
+  Rescued: 0/4
+
+Simple Reflex:
+  Steps: 100
+  Rescued: 0/4
+
+==================================================
